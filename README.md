@@ -1,4 +1,4 @@
-# day_night_theme_animation
+# Light/Dark screen with Rive animation
 
 # Table of Contents
 * [General Info](#general-information)
