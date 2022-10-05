@@ -5,7 +5,7 @@
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Rive animation](#Rive animation)
+* [Rive animation](#rive animation)
 * [Setup](#setup)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
