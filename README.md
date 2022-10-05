@@ -12,7 +12,7 @@
 <!-- * [License](#license) -->
 
 
-![](https://github.com/day_night_theme_animation/appgif.gif)
+![](https://github.com/nexlay/day_night_theme_animation/blob/master/assets/git/appgif.gif)
 
 
 ## General Information
