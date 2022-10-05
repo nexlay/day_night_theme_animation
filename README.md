@@ -50,7 +50,7 @@ Check my animation on [rive.app](https://rive.app/community/3338-7002-lightdark-
 
 
 ## Acknowledgements
-- This project was based on [this tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC).
+- This project was based on [this tutorial](https://help.rive.app/).
 
 
 ## Contact
