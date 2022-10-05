@@ -37,7 +37,7 @@
 
 
 
-##Rive animation
+## Rive animation
 Check my animation on [rive.app](https://rive.app/community/3338-7002-lightdark-theme).
 
 
