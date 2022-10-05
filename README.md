@@ -1,4 +1,4 @@
-# Light/Dark screen with Rive animation
+# Light/Dark theme screen with Rive animation
 
 # Table of Contents
 * [General Info](#general-information)
