@@ -1,6 +1,6 @@
 # Light/Dark theme screen with Rive animation
-
-# Table of Contents
+                                                                             ![](https://github.com/nexlay/day_night_theme_animation/blob/master/assets/git/appgif.gif)
+# Table of Contents 
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
@@ -12,7 +12,7 @@
 <!-- * [License](#license) -->
 
 
-![](https://github.com/nexlay/day_night_theme_animation/blob/master/assets/git/appgif.gif)
+
 
 
 ## General Information
