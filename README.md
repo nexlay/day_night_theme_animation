@@ -33,7 +33,7 @@
 
 
 ## Screenshots
-<img src="assets/git/light.png" width="300" height="620"/> <img src="assets/git/dark.png" width="300" height="620"/>
+<img src="assets/git/light.png" width="320" height="620"/> <img src="assets/git/dark.png" width="320" height="620"/>
 
 
 
